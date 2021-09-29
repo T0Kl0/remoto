@@ -1,0 +1,12 @@
+377a36a Merge branch 'main' of https://github.com/T0Kl0/remoto
+162fb77 Create commit.txt
+45b3bb8 Initial commit
+d02bf87 BUG ARREGLADO
+7bfae96 Modificacion
+aace2c2 FUSION
+98f942e Modificacion a+b
+5448049 SOTO COMMIT
+fae2e44 Modificacion a+b
+d992e74 Modificacion Parametro Commit
+180824b Segundo Commit
+e795867 Primer Commit
